@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @raquelanamb
-- 👀 I’m interested in Python and Java backend development.
-- 🌱 I’m currently learning mobile application development.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me- email.
+- 👀 I’m interested in AI/ML.
 
 <!---
 raquelanamb/raquelanamb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
