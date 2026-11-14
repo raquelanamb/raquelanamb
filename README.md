@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Raquel Ana Bush. I hold an MS in Computer Science from UMass Dartmouth. I graduated in 2025 with a Computer Science BS, concentrating in Artificial Intelligence and minoring in Mathematics. I am also an NSF CyberCorps SFS Alumni.
+- 👋 Hi, I’m Raquel Ana Bush. I received my MS in Computer Science from UMass Dartmouth in 2026. My thesis involved applied mathematics to solve an AI fairness monitoring problem non-invasively.
+- I also hold a Computer Science BS, during which I concentrated in Artificial Intelligence and minoring in Mathematics. I am an NSF CyberCorps SFS Alumni.
 - 💻 I am proficient in Python, Java, C, and C++ programming, with a solid foundation in OOP and algorithms.
 - 👀 I am fascinated by the exploding fields of AI and ML, especially in mitigating bias and adverse social effects.
